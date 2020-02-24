@@ -1,7 +1,8 @@
 # cloud-developer
 content for Udacity's cloud developer nanodegree
 
-Udagram - Image filter module
+
+# Udagram - Image filter module
 
 the server endpoint 
 http://image-filter-starter-code-dev22222.us-east-1.elasticbeanstalk.com
